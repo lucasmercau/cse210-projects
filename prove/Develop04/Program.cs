@@ -1,5 +1,5 @@
 using System;
-// My assignment "Exceeds Requirements" because "Keeps a log of how many times activities were performed" and "no random prompts/questions are selected until they have all been used at least once in that session".
+// My assignment "Exceeds Requirements" because "Keeps a log of how many times activities were performed".
 class Program
 {
     static void Main(string[] args)
